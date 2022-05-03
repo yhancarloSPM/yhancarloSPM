@@ -3,7 +3,7 @@
 -->
 
 #  👋 Hey! Nice to see you.
-***
+
 ### Welcome to my page!
 ### I'm Yhancarlos Pérez, Fullstack developer from <img src="https://us.123rf.com/450wm/simeond/simeond1512/simeond151200026/49716750-bandera-de-rep%C3%BAblica-dominicana-ondeando-en-el-viento-dando-una-textura-ondulada-de-pliegues-en-la-t.jpg" width= 20> Santo Domingo, Dominican Republic.
 
