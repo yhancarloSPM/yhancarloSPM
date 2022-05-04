@@ -50,13 +50,5 @@
 ![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white "WHATSAPP")
 ![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white "FACEBOOK")
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhancarloSPM&theme=dark&show_icons=true)
+![yhancarloSPM's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhancarloSPM&theme=dark&show_icons=true)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yhancarloSPM)](https://github.com/yhancarloSPM/github-readme-stats)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
