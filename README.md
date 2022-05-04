@@ -7,6 +7,14 @@
 ### Welcome to my page!
 ### I'm Yhancarlos Pérez, Fullstack developer from <img src="https://www.comprarbanderas.es/images/banderas/400/149-republica-dominicana_400px.jpg" width= 20> Santo Domingo, Dominican Republic.
 
+### Hi there, I'm [Felix Faust!](https://turtledev.net/) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="29px">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=Full-stack+Web+Developer;Self-taught+Designer;Always+Learning+new+techonologies)](https://git.io/typing-svg)
+
+![](https://komarev.com/ghpvc/?username=AmazingTurtle&color=blueviolet&label=Profile+Views)
+<br />
+
+
 ## Things I code with ⚡
 
 ![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white ".NET")
