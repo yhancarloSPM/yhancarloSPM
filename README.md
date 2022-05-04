@@ -20,6 +20,8 @@
 
 ![](https://img.shields.io/badge/SPORT-%20BASEBALL%2C%20BASKETBALL%2C%20BOXEO-red)
 
+![](https://img.shields.io/badge/BOOK-STORY%2C%20LEGENDS%2C%20POEM%2C%20THEATHER%2C%20DRAMA%2C%20COMEDY%2C%20LOVE%2C%20MANUALS%2C%20-red)
+
 ![](https://img.shields.io/badge/MOVIES-ACCION%2C%20COMEDY%2C%20SUSPENSE%2C%20AVENTURE%2C%20SUPER%20HERO-red)
 
 ![](https://img.shields.io/badge/MUSIC-RAP%2C%20SALSA%2C%20BACHATA-red)
