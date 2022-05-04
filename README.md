@@ -9,7 +9,7 @@
 
 ### 🚀 Skills
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=detail+oriented;Problem+resolution;Self+motivation;Communication+skills;Patience;Creativity)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=Detail+Oriented;Problem+Resolution;Self+Motivation;Communication+Skills;Patience;Creativity)](https://git.io/typing-svg)
 
 ## ⚡ Things I code with 
 
