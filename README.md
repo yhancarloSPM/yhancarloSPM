@@ -37,7 +37,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhancarloSPM&layout=compact&theme=tokyonight)](https://github.com/yhancarloSPM/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhancarloSPM&hide=javascript,html,css)](https://github.com/yhancarloSPM/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhancarloSPM&hide=javascript,html)](https://github.com/yhancarloSPM/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhancarloSPM&layout=compact&theme=tokyonight)](https://github.com/yhancarloSPM/github-readme-stats)
 
