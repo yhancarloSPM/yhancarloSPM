@@ -35,6 +35,9 @@
 ![](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white "JIRA")
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white "VSCODE")
 
+## 😎 Hobbies
+![](https://img.shields.io/badge/ANIME-ONE%20PIECE%2C%20ATTACK%20ON%20TITAN%2C%20KENGAN%20ASHURA%2C%20BAKI%2C%20HUNTER%20X%20HUNTER-red)
+
 ## 👨 Where to find me 
 ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "LINKEDIN")
 ![](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white "OUTLOOK")
