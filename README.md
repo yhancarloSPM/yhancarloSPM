@@ -37,6 +37,10 @@
 
 ## 😎 Hobbies
 ![](https://img.shields.io/badge/ANIME-ONE%20PIECE%2C%20ATTACK%20ON%20TITAN%2C%20KENGAN%20ASHURA%2C%20BAKI%2C%20HUNTER%20X%20HUNTER-red)
+![](https://img.shields.io/badge/SPORT-%20BASEBALL%2C%20BASKETBALL%2C%20BOXEO-red)
+![](https://img.shields.io/badge/MOVIES-ACCION%2C%20COMEDY%2C%20SUSPENSE%2C%20AVENTURE%2C%20SUPER%20HERO-red)
+![](https://img.shields.io/badge/MUSIC-RAP%2C%20SALSA%2C%20BACHATA-red)
+![](https://img.shields.io/badge/Table%20Games-DOMINOES%2C%20ONE%2C%20MONOPOLY%2C%20DECKS%2C%20BOARDS-red)
 
 ## 👨 Where to find me 
 ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "LINKEDIN")
