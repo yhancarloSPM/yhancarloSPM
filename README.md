@@ -29,15 +29,12 @@
 ## 👨 Where to find me 
 ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "LINKEDIN") ![](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white "OUTLOOK") ![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white "GMAIL") ![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white "WHATSAPP") ![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white "FACEBOOK")
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhancarloSPM&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhancarloSPM&layout=compact&theme=tokyonight)](https://github.com/yhancarloSPM/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yhancarloSPM&show_icons=true&theme=tokyonight&layout=compact)
 
 ![](https://img.shields.io/github/watchers/yhancarloSPM/yhancarloSPM?style=social)   ![](https://img.shields.io/github/followers/yhancarloSPM?style=social)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhancarloSPM&layout=compact&theme=tokyonight)](https://github.com/yhancarloSPM/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhancarloSPM&hide=javascript,html)](https://github.com/yhancarloSPM/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhancarloSPM&layout=compact&theme=tokyonight)](https://github.com/yhancarloSPM/github-readme-stats)
 
