@@ -43,7 +43,7 @@
 
 ![](https://img.shields.io/badge/MUSIC-RAP%2C%20SALSA%2C%20BACHATA-red)
 
-![](https://img.shields.io/badge/Table%20Games-DOMINOES%2C%20ONE%2C%20MONOPOLY%2C%20DECKS%2C%20BOARDS-red)
+![](https://img.shields.io/badge/TABLE%20GAMES-DOMINOES%2C%20ONE%2C%20MONOPOLY%2C%20DECKS%2C%20BOARDS-red)
 
 ## 👨 Where to find me 
 ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "LINKEDIN")
