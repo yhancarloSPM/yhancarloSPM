@@ -26,8 +26,6 @@
 ![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white "REDUX")
 ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white "HEROKU")
 ![](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white "SQL")
-![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white "FIGMA")
-![](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue "SEQUELIZE")
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white "GIT")
 ![](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white "SLACK")
 ![](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white "BITBUCKET")
