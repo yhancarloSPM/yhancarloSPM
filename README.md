@@ -35,4 +35,4 @@
 
 ![](https://img.shields.io/github/watchers/yhancarloSPM/yhancarloSPM?style=social) ![](https://img.shields.io/github/followers/yhancarloSPM?style=social)
 
-![Github Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime/?&yhancarloSPM&layout=compact&&theme=default&username=yhancarloSPM&link="https://www.github.com/yhancarloSPM/")
+![Github yhancarloSPM Stats](https://github-readme-stats.vercel.app/api/wakatime/?&yhancarloSPM&layout=compact&&theme=default&username=yhancarloSPM&link="https://www.github.com/yhancarloSPM/")
