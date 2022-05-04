@@ -35,4 +35,7 @@
 
 ![](https://img.shields.io/github/watchers/yhancarloSPM/yhancarloSPM?style=social) ![](https://img.shields.io/github/followers/yhancarloSPM?style=social)
 
-![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou)
+![](https://visitor-badge.laobi.icu/badge?page_id=yhancarloSPM.yhancarloSPM)
+
+[![Github](https://img.shields.io/github/followers/yhancarloSPM?label=Follow&style=social)](https://github.com/yhancarloSPM)
+
