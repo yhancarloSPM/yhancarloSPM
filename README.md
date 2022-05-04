@@ -30,7 +30,6 @@
 ![](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue "SEQUELIZE")
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white "GIT")
 ![](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white "SLACK")
-![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white "DISCORD")
 ![](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white "BITBUCKET")
 ![](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white "JIRA")
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white "VSCODE")
