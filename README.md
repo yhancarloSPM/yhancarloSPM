@@ -7,7 +7,7 @@
 ### Welcome to my page!
 ### I'm Yhancarlos Pérez, fullstack developer from <img src="https://www.comprarbanderas.es/images/banderas/400/149-republica-dominicana_400px.jpg" width= 20> Santo Domingo, Dominican Republic.
 
-### Skills
+### 🚀 Skills
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=Full-stack+Web+Developer;Always+Learning+new+techonologies;)](https://git.io/typing-svg)
 
