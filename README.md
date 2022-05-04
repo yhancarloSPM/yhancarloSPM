@@ -52,3 +52,5 @@
 
 ![yhancarloSPM's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhancarloSPM&theme=dark&show_icons=true)
 
+[![yhancarloSPM's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhancarloSPM)](https://github.com/yhancarloSPM/github-readme-stats)
+
