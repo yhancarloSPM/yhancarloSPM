@@ -5,7 +5,7 @@
 #  👋 Hey! Nice to see you.
 
 ### Welcome to my page!
-### I'm Yhancarlos Pérez, Fullstack developer from <img src="https://images.visitarepublicadominicana.org/bandera-de-republica-dominicana.jpg" width= 20> Santo Domingo, Dominican Republic.
+### I'm Yhancarlos Pérez, Fullstack developer from <img src="https://www.comprarbanderas.es/images/banderas/400/149-republica-dominicana_400px.jpg" width= 20> Santo Domingo, Dominican Republic.
 
 ## Things I code with ⚡
 
