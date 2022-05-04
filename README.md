@@ -31,9 +31,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yhancarloSPM&theme=react)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhancarloSPM)](https://github.com/yhancarloSPM/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhancarloSPM&theme=tokyonight)
 
 ![](https://img.shields.io/github/watchers/yhancarloSPM/yhancarloSPM?style=social) ![](https://img.shields.io/github/followers/yhancarloSPM?style=social)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhancarloSPM&theme=tokyonight)
 
