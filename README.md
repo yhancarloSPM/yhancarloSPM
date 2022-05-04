@@ -35,5 +35,5 @@
 
 ![](https://img.shields.io/github/followers/yhancarloSPM?style=social) ![](https://img.shields.io/github/watchers/yhancarloSPM/yhancarloSPM?style=social)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yhancarloSPM&theme=green)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yhancarloSPM&theme=react)
 
