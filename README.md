@@ -29,15 +29,6 @@
 
 ![](https://img.shields.io/badge/TABLE%20GAMES-DOMINOES%2C%20ONE%2C%20MONOPOLY%2C%20DECKS%2C%20BOARDS-red)
 
-## 👨 Where to find me 
-![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "LINKEDIN") ![](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white "OUTLOOK") ![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white "GMAIL") ![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white "WHATSAPP") ![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white "FACEBOOK")
-
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhancarloSPM&layout=compact&theme=tokyonight)](https://github.com/yhancarloSPM/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yhancarloSPM&show_icons=true&theme=tokyonight&layout=compact)
--->
-
 ## 📊 Github Stats
 
 <details> 
@@ -50,3 +41,10 @@
 </details>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="yhancarloSPM's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=yhancarloSPM&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+## 👨 Where to find me 
+![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "LINKEDIN")
+![](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white "OUTLOOK") 
+![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white "GMAIL")
+![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white "WHATSAPP")
+![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white "FACEBOOK")
