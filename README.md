@@ -61,7 +61,6 @@
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
-- [Automatically booting Ubuntu from new SSD rather than Windows on old HDD?](https://askubuntu.com/questions/470316/automatically-booting-ubuntu-from-new-ssd-rather-than-windows-on-old-hdd)
 <!-- STACKOVERFLOW:END -->
 
 ## 👨 Where to find me 
