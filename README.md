@@ -40,24 +40,30 @@
 
 ## 📊 Github stats
 
+<!-- https://github.com/anuraghazra/github-readme-stats -->
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="yhancarloSPM's Github Stats" src="https://yhancarloSPM-github-readme-stats.vercel.app/api/?username=yhancarloSPM&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="yhancarloSPM's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhancarloSPM&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=DenverCoder1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
 
+
+<!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
 
-1. 🎉 Merged PR [#11](https://github.com/yhancarloSPM/math-bot-with-steps/pull/11) in [yhancarloSPM/math-bot-with-steps](https://github.com/yhancarloSPM/math-bot-with-steps)
-2. 💪 Opened PR [#11](https://github.com/yhancarloSPM/math-bot-with-steps/pull/11) in [yhancarloSPM/math-bot-with-steps](https://github.com/yhancarloSPM/math-bot-with-steps)
-3. 🎉 Merged PR [#10](https://github.com/yhancarloSPM/math-bot-with-steps/pull/10) in [yhancarloSPM/math-bot-with-steps](https://github.com/yhancarloSPM/math-bot-with-steps)
-4. 🗣 Commented on [#9](https://github.com/yhancarloSPM/math-bot-with-steps/issues/9) in [yhancarloSPM/math-bot-with-steps](https://github.com/yhancarloSPM/math-bot-with-steps)
-5. ❌ Closed PR [#9](https://github.com/yhancarloSPM/math-bot-with-steps/pull/9) in [yhancarloSPM/math-bot-with-steps](https://github.com/yhancarloSPM/math-bot-with-steps)
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#11](https://github.com/DenverCoder1/math-bot-with-steps/pull/11) in [DenverCoder1/math-bot-with-steps](https://github.com/DenverCoder1/math-bot-with-steps)
+2. 💪 Opened PR [#11](https://github.com/DenverCoder1/math-bot-with-steps/pull/11) in [DenverCoder1/math-bot-with-steps](https://github.com/DenverCoder1/math-bot-with-steps)
+3. 🎉 Merged PR [#10](https://github.com/DenverCoder1/math-bot-with-steps/pull/10) in [DenverCoder1/math-bot-with-steps](https://github.com/DenverCoder1/math-bot-with-steps)
+4. 🗣 Commented on [#9](https://github.com/DenverCoder1/math-bot-with-steps/issues/9) in [DenverCoder1/math-bot-with-steps](https://github.com/DenverCoder1/math-bot-with-steps)
+5. ❌ Closed PR [#9](https://github.com/DenverCoder1/math-bot-with-steps/pull/9) in [DenverCoder1/math-bot-with-steps](https://github.com/DenverCoder1/math-bot-with-steps)
+<!--END_SECTION:activity-->
 </details>
 
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
