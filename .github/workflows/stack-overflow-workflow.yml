@@ -19,4 +19,4 @@ jobs:
         with:
           comment_tag_name: "STACKOVERFLOW"
           commit_message: "Updated readme with the latest stackOverflow data"
-          feed_list: "https://es.stackoverflow.com/feeds/question/532977 , https://es.stackoverflow.com/feeds/question/532055"
+          feed_list: "https://es.stackoverflow.com/users/283982/el-chocolate?tab=activity"
