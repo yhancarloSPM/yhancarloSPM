@@ -46,7 +46,7 @@
 
 ![](https://img.shields.io/badge/TABLE%20GAMES-DOMINOES%2C%20ONE%2C%20MONOPOLY%2C%20DECKS%2C%20BOARDS-red)
 
-## 📊 Github Stats
+## :bar_chart: Github Stats
 
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
