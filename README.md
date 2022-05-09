@@ -59,17 +59,6 @@
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="yhancarloSPM's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=yhancarloSPM&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-## StackOverflow Activity
-<!-- STACKOVERFLOW:START -->
-<!-- STACKOVERFLOW:END -->
-
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
 ## 👨 Where to find me 
 ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "LINKEDIN")
 ![](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white "OUTLOOK") 
