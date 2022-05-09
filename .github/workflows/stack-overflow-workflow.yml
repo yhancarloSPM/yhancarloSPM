@@ -1,7 +1,4 @@
-# This is a basic workflow to help you get started with Actions
-
-name: CI
- # name: Latest stack overflow activity
+name: Latest stack overflow activity
 on:
   schedule:
     # Runs every 5 minutes
