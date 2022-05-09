@@ -8,11 +8,11 @@
 ### Welcome to my page!
 ### I'm Yhancarlos Pérez, fullstack jr developer from <img src="https://www.comprarbanderas.es/images/banderas/400/149-republica-dominicana_400px.jpg" width= 20> Santo Domingo, Dominican Republic.
 
-## 🚀 Skills
+## :rocket: Skills
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=Detail+Oriented;Problem+Resolution;Self+Motivation;Communication+Skills;Patience;Creativity)](https://git.io/typing-svg)
 
-## ⚡ Things I code with 
+## :zap: Things I code with 
 
 ![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white ".NET")
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML5")
