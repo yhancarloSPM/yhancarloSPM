@@ -6,7 +6,7 @@
 ![](https://img.shields.io/github/watchers/yhancarloSPM/yhancarloSPM?style=social)   ![](https://img.shields.io/github/followers/yhancarloSPM?style=social)
 
 ### Welcome to my page!
-### I'm Yhancarlos Pérez, fullstack developer from <img src="https://www.comprarbanderas.es/images/banderas/400/149-republica-dominicana_400px.jpg" width= 20> Santo Domingo, Dominican Republic.
+### I'm Yhancarlos Pérez, fullstack jr developer from <img src="https://www.comprarbanderas.es/images/banderas/400/149-republica-dominicana_400px.jpg" width= 20> Santo Domingo, Dominican Republic.
 
 ## 🚀 Skills
 
