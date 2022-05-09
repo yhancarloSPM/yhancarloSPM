@@ -67,7 +67,10 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> e9350590725ebbc0f64fb38fad5c465c7bec8d9c
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
@@ -79,7 +82,11 @@
 ![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white "FACEBOOK")
 
 ## Frases
+<<<<<<< HEAD
 * **Si no lo intentas nunca lo sabrás, si lo pudiste realizar**. - Anonimo
+=======
+* **Si no lo intentas nunca lo sabrás, si lo pudiste realizar. - Anonimo**
+>>>>>>> e9350590725ebbc0f64fb38fad5c465c7bec8d9c
 *  **Convierte siempre una situación negativa en una positiva - Michael Jordan**
 * **Si no lo intentas nunca lo sabrás, si lo pudiste realizar. - Franklin D. Roosevelt**
 * **No dejes que nadie se acerque a ti, sin que se vaya mejor y más dichoso - Madre Teresa de Calcuta**
