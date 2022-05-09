@@ -71,10 +71,10 @@
 ![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white "FACEBOOK")
 
 ## Frases
-* Si no lo intentas nunca lo sabrás, si lo pudiste realizar.
-*  Convierte siempre una situación negativa en una positiva - Michael Jordan
-* Si no lo intentas nunca lo sabrás, si lo pudiste realizar. - Franklin D. Roosevelt
+* **Si no lo intentas nunca lo sabrás, si lo pudiste realizar**.
+*  **Convierte siempre una situación negativa en una positiva - Michael Jordan**
+* **Si no lo intentas nunca lo sabrás, si lo pudiste realizar. - Franklin D. Roosevelt**
 * **No dejes que nadie se acerque a ti, sin que se vaya mejor y más dichoso - Madre Teresa de Calcuta**
-* La inteligencia consiste no sólo en el conocimiento, sino también en la destreza de aplicar los conocimientos en la práctica - Aristóteles
+* **La inteligencia consiste no sólo en el conocimiento, sino también en la destreza de aplicar los conocimientos en la práctica - Aristóteles**
 
 
