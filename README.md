@@ -62,7 +62,7 @@
 ## :man: Where to find me 
 My favorite search engine is [:man:](https://duckduckgo.com).
 
-![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "https://duckduckgo.com") [:point_right:](https://duckduckgo.com).
+![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "https://duckduckgo.com") :point_right: [](https://duckduckgo.com).
 
 ![](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white "OUTLOOK") 
 ![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white "GMAIL")
