@@ -12,7 +12,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=Detail+Oriented;Problem+Resolution;Self+Motivation;Communication+Skills;Patience;Creativity)](https://git.io/typing-svg)
 
-## :zap: Things I code with 
+## :wrench: Things I code with 
 
 ![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white ".NET")
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML5")
