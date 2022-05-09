@@ -59,7 +59,7 @@
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="yhancarloSPM's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=yhancarloSPM&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-## StackOverflow Activity
+## :calendar: StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
 - [Comentario de El chocolate en ¿Cómo puedo hacer un github action con una lista de actividades de este sitio web?](https://es.stackoverflow.com/questions/532977/c%c3%b3mo-puedo-hacer-un-github-action-con-una-lista-de-actividades-de-este-sitio-we)
 - [¿Cómo puedo hacer un github action con una lista de actividades de este sitio web?](https://es.stackoverflow.com/questions/532977/c%c3%b3mo-puedo-hacer-un-github-action-con-una-lista-de-actividades-de-este-sitio-we)
