@@ -33,7 +33,7 @@
 ![](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white "JIRA")
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white "VSCODE")
 
-## 😎 Hobbies
+## :sunglasses: Hobbies
 ![](https://img.shields.io/badge/ANIME-ONE%20PIECE%2C%20ATTACK%20ON%20TITAN%2C%20KENGAN%20ASHURA%2C%20BAKI%2C%20HUNTER%20X%20HUNTER-red)
 
 ![](https://img.shields.io/badge/BOOK-STORY%2C%20LEGENDS%2C%20POEM%2C%20THEATHER%2C%20DRAMA%2C%20COMEDY%2C%20LOVE%2C%20MANUALS%2C%20-red)
