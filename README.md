@@ -2,7 +2,7 @@
 **yhancarlos/yhancarlos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-#  👋 Hey! Nice to see you.
+# :wave: Hey! Nice to see you.
 ![](https://img.shields.io/github/watchers/yhancarloSPM/yhancarloSPM?style=social)   ![](https://img.shields.io/github/followers/yhancarloSPM?style=social)
 
 ### Welcome to my page!
