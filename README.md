@@ -63,8 +63,8 @@
 ## :man: Where to find me 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "LINKEDIN")](https://www.linkedin.com/in/yhancarlos-simón-pérez-marte-18b883144/)
 [![](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white "OUTLOOK")](mailto:yhancarlos-perez@hotmail.com)
-[![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white "WHATSAPP")](https://wa.me/18298617713/)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white "GMAIL")](mailto:yhancarlosperez05@gmail.com)
+[![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white "WHATSAPP")](https://wa.me/18298617713/)
 
 
 ## :books: Phrases
