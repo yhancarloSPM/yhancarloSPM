@@ -65,10 +65,7 @@
 [![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white "WHATSAPP")](https://wa.me/18298617713/)
 [![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white "FACEBOOK")](https://www.facebook.com/yhansi05/)
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white "TWITTER")](https://twitter.com/YhancarlosPerez/)
-
-<a href="mailto:yhancarlos-perez@hotmail.com" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="hotmail" width="30px" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
-</a>
+[![](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white "OUTLOOK")](mailto:yhancarlos-perez@hotmail.com)
 
 
 ## :books: Phrases
