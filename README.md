@@ -68,11 +68,11 @@
 
 
 ## :books: Phrases
-* **Si no lo intentas nunca lo sabrás, si lo pudiste realizar. - Anonimo**
-*  **Convierte siempre una situación negativa en una positiva - Michael Jordan**
-* **Si no lo intentas nunca lo sabrás, si lo pudiste realizar. - Franklin D. Roosevelt**
-* **No dejes que nadie se acerque a ti, sin que se vaya mejor y más dichoso - Madre Teresa de Calcuta**
-* **La inteligencia consiste no sólo en el conocimiento, sino también en la destreza de aplicar los en la práctica - Aristóteles**
+*  **You can try again tomorrow.**
+*  **Never give up on your dreams.**
+*  **Every new day is another chance to change your life.**
+*  **Never stop learning because life never stops teaching.**
+*  **Believe in yourself. Don’t let anyone tell you that you can’t.**
 
 ***
 
