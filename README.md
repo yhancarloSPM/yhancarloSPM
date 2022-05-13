@@ -54,6 +54,7 @@
 
 ## :calendar: StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Respuesta de El chocolate en como hacer para que al dar click en un boton mi linea del datagridview se quite y se pasen los datos a otro datagridview](https://es.stackoverflow.com/questions/533953/como-hacer-para-que-al-dar-click-en-un-boton-mi-linea-del-datagridview-se-quite/533960#533960)
 - [Comentario de El chocolate en ¿Cómo puedo hacer un github action con una lista de actividades de este sitio web?](https://es.stackoverflow.com/questions/532977/c%c3%b3mo-puedo-hacer-un-github-action-con-una-lista-de-actividades-de-este-sitio-we)
 - [Comentario de El chocolate en ¿Cómo puedo hacer un github action con una lista de actividades de este sitio web?](https://es.stackoverflow.com/questions/532977/c%c3%b3mo-puedo-hacer-un-github-action-con-una-lista-de-actividades-de-este-sitio-we)
 - [¿Cómo puedo hacer un github action con una lista de actividades de este sitio web?](https://es.stackoverflow.com/questions/532977/c%c3%b3mo-puedo-hacer-un-github-action-con-una-lista-de-actividades-de-este-sitio-we)
