@@ -68,7 +68,6 @@
 
 
 ## :books: Phrases
-* **Si no lo intentas nunca lo sabrás, si lo pudiste realizar**. - Anonimo
 * **Si no lo intentas nunca lo sabrás, si lo pudiste realizar. - Anonimo**
 *  **Convierte siempre una situación negativa en una positiva - Michael Jordan**
 * **Si no lo intentas nunca lo sabrás, si lo pudiste realizar. - Franklin D. Roosevelt**
