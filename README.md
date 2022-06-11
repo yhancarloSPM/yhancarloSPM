@@ -54,9 +54,6 @@
 
 ## :calendar: StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
-- [Comentario de Yhancarlos Pérez en ¿Cómo puedo hacer un github action con una lista de actividades de este sitio web?](https://es.stackoverflow.com/questions/532977/c%c3%b3mo-puedo-hacer-un-github-action-con-una-lista-de-actividades-de-este-sitio-we)
-- [Comentario de Yhancarlos Pérez en ¿Cómo puedo hacer un github action con una lista de actividades de este sitio web?](https://es.stackoverflow.com/questions/532977/c%c3%b3mo-puedo-hacer-un-github-action-con-una-lista-de-actividades-de-este-sitio-we)
-- [¿Cómo puedo hacer un github action con una lista de actividades de este sitio web?](https://es.stackoverflow.com/questions/532977/c%c3%b3mo-puedo-hacer-un-github-action-con-una-lista-de-actividades-de-este-sitio-we)
 - [Comentario de Yhancarlos Pérez en problema con tamaño de imagen, no abarca el componente padre](https://es.stackoverflow.com/questions/532055/problema-con-tama%c3%b1o-de-imagen-no-abarca-el-componente-padre)
 <!-- STACKOVERFLOW:END -->
 
